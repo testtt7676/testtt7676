@@ -1,1 +1,2 @@
-gh = 94507f877d7920c8bb251ae38767f4e1-67bd41c2-aa869a9c
+hello = postgres://avnadmin:AVNS_cVLjdAfrXhYmPvMr_Q-@pg-256715f8-ytnhy-af8b.k.aivencloud.com:14416/defaultdb?sslmode=require
+
