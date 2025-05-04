@@ -32,5 +32,6 @@ if __name__ == "__main__":
     your_email = ""
     your_password = ""
     subject = "Test Email"
+    GH = "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"
     body = "This is a test email sent to myself using Python."
     send_email_to_self(your_email, your_password, subject, body)
