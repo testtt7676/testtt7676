@@ -1,1 +1,1 @@
-gh = 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
+gh = https://hooks.slack.com/services/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
