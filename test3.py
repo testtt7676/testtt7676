@@ -31,6 +31,7 @@ def send_email_to_self(sender_email, sender_password, subject, body):
 if __name__ == "__main__":
     aws_access_key_id = AKIAIOSFODNN7EXAMPLE
     aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+    GH = "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"
     subject = "Test Email"
     body = "This is a test email sent to myself using Python."
     send_email_to_self(your_email, your_password, subject, body)
