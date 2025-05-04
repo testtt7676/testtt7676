@@ -1,1 +1,1 @@
-gh = 94507f877d7920c8bb251ae38767f4e1-67bd41c2-aa869a9c
+gh = https://hooks.slack.com/services/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
