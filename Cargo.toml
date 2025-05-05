@@ -1,0 +1,4 @@
+[dependencies]
+serde = "1.0"                      
+internal_utils_lib = "0.1.0"       
+rand = "0.8"                       
