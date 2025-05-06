@@ -1,5 +1,0 @@
-Package: mypkg
-Version: 1.0
-Imports:
-    ggplot2 (>= 3.4.0),         
-    aaaadddjjjqqqwwwrrrxxxmmmmm (>= 0.1)   
