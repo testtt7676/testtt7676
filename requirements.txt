@@ -1,5 +1,0 @@
-requests==2.31.0                   # ✅ Real
-django==4.2.7                      # ✅ Real
-company-internal-lib==0.1.0       # ❌ Fake
-internal-utils-helper==0.0.5      # ❌ Fake
-numpy==1.24.3                     # ✅ Real
