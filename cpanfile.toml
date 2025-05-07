@@ -1,0 +1,3 @@
+requires 'Mojolicious', '>= 9.0';             
+requires 'asdjkhadjkalckjwl', '0.01';      
+requires 'DBI', '1.643';                      
