@@ -1,1 +1,1 @@
-psql 'postgres://avnadmin:AVNS_3L0rzh-5CpY_sY-u7va@pg-256715f8-ytnhy-af8b.k.aivencloud.com:14416/defaultdb?sslmode=require'
+psql 'postgres://avnadmin:AVNS_Mkk7h4ieIFgXf70Zvbu@pg-2b8a9626-calorpg-48ee.h.aivencloud.com:19565/defaultdb?sslmode=require'
